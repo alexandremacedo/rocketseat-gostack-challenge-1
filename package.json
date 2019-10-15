@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat-gostack-challenge-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexandreMacedoo/rocketseat-gostack-challenge-1.git",
+  "author": "Alexandre <alexandre.omph@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
