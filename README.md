@@ -19,7 +19,7 @@ $ cd rocketseat-gostack-challenge-1
 ```
 
 ### Executando
-Com o projeto clonado em sua máquina, execute os comandos abaixo:
+Com o projeto clonado em sua máquina, execute o comando abaixo:
 
 ```ssh
 $ yarn dev
