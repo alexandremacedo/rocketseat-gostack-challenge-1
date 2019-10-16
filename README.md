@@ -36,4 +36,4 @@ $ yarn dev
 
 
 # License
-The api-customer-rating is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The rocketseat-gostack-challenge-1 is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
